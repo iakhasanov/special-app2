@@ -12,7 +12,7 @@ body {
     background-repeat: no-repeat;
 }
 h1 {
-    color: white;
+    color: rgb(22, 189, 70);
     cursor: url(minecraft.png), pointer;
 }
 h2 {
